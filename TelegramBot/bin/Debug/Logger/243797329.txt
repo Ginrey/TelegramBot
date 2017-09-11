@@ -1,0 +1,31 @@
+02.06.2017 12:27:09 Jump to step: One
+02.06.2017 12:27:48 Send info to step: One
+02.06.2017 12:27:48 Jump to step: GetMobile
+02.06.2017 12:27:53 Send info to step: GetMobile
+02.06.2017 12:27:55 Jump to step: Two
+02.06.2017 17:32:09 Jump to step: Two
+02.06.2017 17:32:39 Jump to step: Two
+02.06.2017 17:33:38 Jump to step: Two
+02.06.2017 17:34:23 Send info to step: Two
+02.06.2017 17:34:23 Jump to step: Three
+02.06.2017 17:34:29 Send info to step: Three
+02.06.2017 17:34:29 Jump to step: Four
+07.06.2017 17:05:26 Jump to step: One
+07.06.2017 18:01:14 Jump to step: GetMobile ()
+07.06.2017 18:01:25 Send info to step: GetMobile ()
+07.06.2017 18:01:25 Jump to step: Nine ()
+07.06.2017 18:01:44 Send info to step: Nine ()
+07.06.2017 18:01:57 Send info to step: Nine (/next)
+07.06.2017 18:02:22 Send info to step: Nine (/next)
+07.06.2017 18:02:39 Send info to step: Nine (/next)
+07.06.2017 18:02:43 Jump to step: Regisration ()
+07.06.2017 18:02:52 Send info to step: Regisration (/AcceptReg)
+07.06.2017 18:02:58 Jump to step: Confirm ()
+07.06.2017 18:03:43 Send info to step: Confirm (449354)
+07.06.2017 18:03:45 Jump to step: Done ()
+07.06.2017 18:04:03 Send info to step: Done (/Next)
+07.06.2017 18:04:03 Jump to step: Ten ()
+07.06.2017 18:04:22 Send info to step: Ten (/Pay)
+07.06.2017 18:04:22 Jump to step: AlreadyUsing ()
+07.06.2017 18:05:48 Jump to step: AlreadyUsing ()
+07.06.2017 18:08:07 Jump to step: AlreadyUsing ()

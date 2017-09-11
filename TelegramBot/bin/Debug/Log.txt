@@ -1,0 +1,75 @@
+[07.06.2017 16:56:24] Packets was loaded
+[07.06.2017 16:56:25] Languages was loaded
+[07.06.2017 16:56:28] Web service: Login complete
+[07.06.2017 16:56:28] Sql was initialization
+[07.06.2017 16:56:29] Session was started
+[07.06.2017 16:57:26] Packets was loaded
+[07.06.2017 16:57:26] Languages was loaded
+[07.06.2017 16:57:28] Web service: Login complete
+[07.06.2017 16:57:28] Sql was initialization
+[07.06.2017 16:57:29] Session was started
+[07.06.2017 17:03:20] Packets was loaded
+[07.06.2017 17:03:20] Languages was loaded
+[07.06.2017 17:03:22] Web service: Login complete
+[07.06.2017 17:03:22] Sql was initialization
+[07.06.2017 17:03:23] Session was started
+[07.06.2017 17:04:10] Packets was loaded
+[07.06.2017 17:04:10] Languages was loaded
+[07.06.2017 17:04:12] Web service: Login complete
+[07.06.2017 17:04:12] Sql was initialization
+[07.06.2017 17:04:13] Session was started
+[07.06.2017 17:05:26] 243797329 : Jump to step: One
+[07.06.2017 17:05:52] Packets was loaded
+[07.06.2017 17:05:52] Languages was loaded
+[07.06.2017 17:05:53] Web service: Login complete
+[07.06.2017 17:05:53] Sql was initialization
+[07.06.2017 17:05:54] Session was started
+[07.06.2017 18:00:12] Packets was loaded
+[07.06.2017 18:00:12] Languages was loaded
+[07.06.2017 18:00:15] Web service: Login complete
+[07.06.2017 18:00:15] Sql was initialization
+[07.06.2017 18:00:16] Session was started
+[07.06.2017 18:01:14] 243797329 : Jump to step: GetMobile
+[07.06.2017 18:01:25] 243797329 : Send info to step: GetMobile
+[07.06.2017 18:01:25] 243797329 : Jump to step: Nine
+07.06.2017 (243797329) Nine Serialize: Bad Request: wrong file identifier/HTTP URL specified
+    в Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__138`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в TelegramBot.Net.Packets.OnNine.<Serialize>d__0.MoveNext() в C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\Net\Packets\OnNine.cs:строка 17
+
+[07.06.2017 18:01:44] 243797329 : Send info to step: Nine
+07.06.2017 (243797329) Nine Deserialize: Ссылка на объект не указывает на экземпляр объекта.
+    в TelegramBot.Net.Packets.OnNine.Deserialize(Client client, StepsEventArgs e) в C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\Net\Packets\OnNine.cs:строка 31
+
+[07.06.2017 18:01:57] 243797329 : Send info to step: Nine
+[07.06.2017 18:02:22] 243797329 : Send info to step: Nine
+[07.06.2017 18:02:39] 243797329 : Send info to step: Nine
+[07.06.2017 18:02:43] 243797329 : Jump to step: Regisration
+[07.06.2017 18:02:52] 243797329 : Send info to step: Regisration
+[07.06.2017 18:02:58] 243797329 : Jump to step: Confirm
+[07.06.2017 18:03:43] 243797329 : Send info to step: Confirm
+[07.06.2017 18:03:45] 243797329 : Jump to step: Done
+[07.06.2017 18:03:53] 449354 Complete Insert
+[07.06.2017 18:04:03] 243797329 : Send info to step: Done
+[07.06.2017 18:04:03] 243797329 : Jump to step: Ten
+07.06.2017 (243797329) Ten Serialize: Bad Request: wrong file identifier/HTTP URL specified
+    в Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__138`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в TelegramBot.Net.Packets.OnTen.<Serialize>d__0.MoveNext() в C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\Net\Packets\OnTen.cs:строка 25
+
+[07.06.2017 18:04:22] 243797329 : Send info to step: Ten
+[07.06.2017 18:04:22] 243797329 : Jump to step: AlreadyUsing
+[07.06.2017 18:05:48] 243797329 : Jump to step: AlreadyUsing
+[07.06.2017 18:07:58] Packets was loaded
+[07.06.2017 18:07:58] Languages was loaded
+[07.06.2017 18:08:01] Web service: Login complete
+[07.06.2017 18:08:01] Sql was initialization
+[07.06.2017 18:08:02] Session was started
+[07.06.2017 18:08:07] 243797329 : Jump to step: AlreadyUsing
+[07.06.2017 18:08:45] Воробьев Андрей Дмитриевич Enter to account

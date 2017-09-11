@@ -1,0 +1,13 @@
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\TelegramBot.exe.config
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\TelegramBot.exe
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\TelegramBot.pdb
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\HtmlAgilityPack.dll
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\Telegram.Bot.dll
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\HtmlAgilityPack.pdb
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\HtmlAgilityPack.xml
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.exe
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.pdb
+C:\Users\SkeW\Documents\Visual Studio 2017\Projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csprojResolveAssemblyReference.cache
